@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+
+javascript html5 css3 bootstrap react reactnative redux sass babel nodejs express git postgresql postman mocha typescript
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
