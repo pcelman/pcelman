@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 My name is **Paula Celman** I work as a ✨Front End developer ✨ 
 
 My background in industrial design gives me an understanding of the way the user relates to the interfase, and together with my experience in the visual arts (MFA) gives a sense of design and color to arrange elements in the screen.
