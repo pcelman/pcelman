@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**pcelman/pcelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Paula Celman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
