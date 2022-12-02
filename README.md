@@ -1,7 +1,8 @@
-My name is **Paula Celman** I work as a ✨Front End developer ✨ 
+My name is **Paula Celman** I work as a ✨Front End developer ✨ with a background in industrial design and a master degree in fine arts.
+I am articulate and can express myself with confidence both in english and in spanish. I also enjoy being part of a team. I´m collaborative, dedicated, proactive and positive. 
+TECH SKILLS: Javascript (ES6),  ReactJS, Redux, HTML, CSS, Tailwind CSS, Figma, Node.js, Express, Sequelize, Git and Scrum.
+My hobby is dancing Zumba.
 
-My background in industrial design gives me an understanding of the way the user relates to the interfase, and together with my experience in the visual arts (MFA) gives a sense of design and color to arrange elements in the screen.
-I am articulate and can express myself with confidence both in english and in spanish. I also enjoy being part of a team. I´m colaborative, dedicated, proactive and positive.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
