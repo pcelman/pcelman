@@ -1,7 +1,9 @@
-My name is **Paula Celman** I work as a ✨Front End developer ✨ with a background in industrial design and an MFA.
-I am articulate and can express myself with confidence both in english and in spanish. I also enjoy being part of a team. I´m collaborative, dedicated, proactive and positive. 
+My name is Paula Celman. I’m a front end developer with a background in industrial design and a master degree in fine arts.
+I am articulate and can express myself with confidence both in english and in spanish. I also enjoy working in a team, collaborate and bring value. I´m dedicated, proactive and positive. 
 TECH SKILLS: Javascript (ES6),  ReactJS, Redux, HTML, CSS, Tailwind CSS, Figma, Node.js, Express, Sequelize, Git and Scrum.
-My hobby is dancing Zumba.
+My hobby is dancing Zumba. Dancing brings me joy and helps me maintain my positive attitude.
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +24,6 @@ My hobby is dancing Zumba.
 
 - 🌱 I’m currently learning REACT NATIVE and TypeScript
 
-Let me know if I can help you with something.
-Write me! pcelman@gmail.com
+If you like my profile and you’d like to coordinate an interview write me!
+pcelman@gmail.com
   
