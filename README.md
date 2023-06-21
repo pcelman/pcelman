@@ -1,4 +1,4 @@
-My name is Paula Celman. I’m a frontend developer with a background in industrial design and a master degree in fine arts.
+Frontend developer with a background in industrial design and a master degree in fine arts.
 I am articulate and can express myself with confidence both in english and in spanish. I also enjoy working in a team, collaborate and bring value. I´m dedicated, proactive and positive. </br></br>
 TECH SKILLS: Javascript (ES6),  ReactJS, Redux, HTML, CSS, Tailwind CSS, Figma, Node.js, Express, Sequelize, Git and Scrum.</br>
 
