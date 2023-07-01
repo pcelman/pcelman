@@ -17,7 +17,7 @@ TECH SKILLS: Javascript (ES6),  ReactJS, Redux, HTML, CSS, Tailwind CSS, Figma, 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank">
-<img width="238" alt="Screenshot_2023-07-01_at_10 06 02-removebg-preview" src="https://github.com/pcelman/Portfolio_2.0/assets/100241036/1511318b-abdf-488c-8d01-b343f74f1b19"  width="40" height="40"></a>
+<img width="238" alt="Screenshot_2023-07-01_at_10 06 02-removebg-preview" src="https://github.com/pcelman/Portfolio_2.0/assets/100241036/1511318b-abdf-488c-8d01-b343f74f1b19"  width="5" height="40"></a>
 
 
 
