@@ -15,4 +15,4 @@ pcelman@gmail.com
 Working on a new version of our portfolio. Until the next update, you can visit the current portfolio at the following link:
 
 
-[CURRENT_PORTFOLIO](https://paulacelman-portfolio.vercel.app/)
+[CURRENT PORTFOLIO](https://paulacelman-portfolio.vercel.app/)
