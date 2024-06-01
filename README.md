@@ -14,4 +14,5 @@ pcelman@gmail.com
 
 Working on a new version of our portfolio. Until the next update, you can visit the current portfolio at the following link:
 
-[Current Portfolio](https://paulacelman-portfolio.vercel.app/)
+
+<a href="[URL_TO_CURRENT_PORTFOLIO](https://paulacelman-portfolio.vercel.app/)" target="_blank">Current Portfolio</a>
