@@ -10,4 +10,4 @@ TECH SKILLS: Javascript (ES6), HTML, CSS, ReactJS, ReactNative, Redux, HTML, CSS
 If you like my profile and you’d like to coordinate an interview write me!
 pcelman@gmail.com
 
-[CURRENT PORTFOLIO](https://paulacelman-portfolio.vercel.app/)
+[MY PORTFOLIO](https://paulacelman-portfolio.vercel.app/)
